@@ -1,0 +1,20 @@
+﻿<Window x:Class="WPF_work.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_work"
+        mc:Ignorable="d"
+        Title="Расчёт премий." Height="250" Width="400">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="30,20,0,0" VerticalAlignment="Top" Text="Заработная плата:"/>
+        <TextBox x:Name="txtSalary" HorizontalAlignment="Left" Height="23" Margin="150,20,0,0" VerticalAlignment="Top" Width="200"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="30,60,0,0" VerticalAlignment="Top" Text="Выслуга лет:"/>
+        <TextBox x:Name="txtYears" HorizontalAlignment="Left" Height="23" Margin="150,60,0,0" VerticalAlignment="Top" Width="200"/>
+
+        <Button Content="Рассчитать премию" HorizontalAlignment="Left" Margin="120,100,0,0" VerticalAlignment="Top" Width="150" Click="CalculateBonus_Click"/>
+
+        <TextBlock x:Name="txtResult" HorizontalAlignment="Left" Margin="30,150,0,0" VerticalAlignment="Top" Height="60" Width="320" TextWrapping="Wrap"/>
+    </Grid>
+</Window>

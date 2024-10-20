@@ -1,0 +1,48 @@
+C:\Users\Артём Петров\source\repos\WPF_work\bin\Debug\WPF_work.exe.config
+C:\Users\Артём Петров\source\repos\WPF_work\bin\Debug\WPF_work.exe
+C:\Users\Артём Петров\source\repos\WPF_work\bin\Debug\WPF_work.pdb
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\WPF_work.csproj.AssemblyReference.cache
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\MainWindow.g.cs
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\Window1.g.cs
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\App.g.cs
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\WPF_work_MarkupCompile.cache
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\WPF_work_MarkupCompile.lref
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\MainWindow.baml
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\Window1.baml
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\WPF_work.g.resources
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\WPF_work.Properties.Resources.resources
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\WPF_work.csproj.GenerateResource.cache
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\WPF_work.csproj.CoreCompileInputs.cache
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\WPF_work.exe
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\WPF_work.pdb
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\Window2.baml
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\Window2.g.cs
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\Window3.baml
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\Window3.g.cs
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\Window4.g.cs
+C:\Users\Артём Петров\source\repos\WPF_work\obj\Debug\Window4.baml
+C:\Users\Капибарный\Desktop\WPF_work\bin\Debug\WPF_work.exe.config
+C:\Users\Капибарный\Desktop\WPF_work\bin\Debug\WPF_work.exe
+C:\Users\Капибарный\Desktop\WPF_work\bin\Debug\WPF_work.pdb
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\WPF_work.csproj.AssemblyReference.cache
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\MainWindow.g.cs
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\Window1.g.cs
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\Window2.g.cs
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\Window3.g.cs
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\Window4.g.cs
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\App.g.cs
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\WPF_work_MarkupCompile.cache
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\WPF_work_MarkupCompile.lref
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\MainWindow.baml
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\Window1.baml
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\Window2.baml
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\Window3.baml
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\Window4.baml
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\WPF_work.g.resources
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\WPF_work.Properties.Resources.resources
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\WPF_work.csproj.GenerateResource.cache
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\WPF_work.csproj.CoreCompileInputs.cache
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\WPF_work.exe
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\WPF_work.pdb
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\lab4_MarkupCompile.cache
+C:\Users\Капибарный\Desktop\WPF_work\obj\Debug\lab4_MarkupCompile.lref

@@ -1,0 +1,16 @@
+﻿<Window x:Class="WPF_work.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_work"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Task1" Content="Task 1" HorizontalAlignment="Left" Margin="120,0,0,0" VerticalAlignment="Center" Height="50" Width="85" Click="Task1_Click"/>
+        <Button x:Name="Task2" Content="Task 2" HorizontalAlignment="Left" Margin="270,0,0,0" VerticalAlignment="Center" Height="50" Width="85" Click="Task2_Click"/>
+        <Button x:Name="Task3" Content="Task 3" HorizontalAlignment="Left" Margin="420,0,0,0" VerticalAlignment="Center" Height="50" Width="85" Click="Task3_Click"/>
+        <Button x:Name="Task4" Content="Task 4" HorizontalAlignment="Left" Margin="570,0,0,0" VerticalAlignment="Center" Height="50" Width="85" Click="Task4_Click"/>
+
+    </Grid>
+</Window>
